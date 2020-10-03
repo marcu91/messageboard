@@ -64,6 +64,7 @@ export class Messageboard extends Component {
                     <tr>
                         <th>Title</th>
                         <th>Body</th>
+                        <th>Actions</th>
                     </tr>
                 </thead>
                 <tbody>
